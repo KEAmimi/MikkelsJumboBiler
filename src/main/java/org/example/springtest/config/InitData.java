@@ -12,11 +12,11 @@ public class InitData {
 
     public InitData(){
 
-        carList.add(new Car(1, "volvo", 2012, "Sedan", "Red", "ABC123", "billede"));
-        carList.add(new Car(1, "Ford", 2008, "HatchBack", "Grey", "Poopy", "billede"));
-        carList.add(new Car(1, "Dodge", 2001, "Sports Car", "Yellow", "DubaiBaby", "billede"));
-        carList.add(new Car(1, "Fisker", 2025, "Shit", "Black", "Can'tDrive", "billede"));
-        carList.add(new Car(1, "Suzuki", 2009, "Best Car", "Grey", "BestCar", "billede"));
+        carList.add(new Car(1, "volvo", 2012, "Sedan", "Red", "ABC123", "blåvolvostationcar.jpg"));
+        carList.add(new Car(1, "Ford", 2008, "HatchBack", "Grey", "Poopy", "generic.jpg"));
+        carList.add(new Car(1, "Dodge", 2001, "Sports Car", "Yellow", "DubaiBaby", "GrønVWpolo.jpg"));
+        carList.add(new Car(1, "Fisker", 2025, "Shit", "Black", "Can'tDrive", "GulVWBobbel.jpg"));
+        carList.add(new Car(1, "Suzuki", 2009, "Best Car", "Grey", "BestCar", "WesternstarRødTruck.jpg"));
     }
 
 
